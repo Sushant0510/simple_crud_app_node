@@ -1,0 +1,7 @@
+npm init -y
+npm install mongoose
+npm install multer
+npm install xlsx
+
+database user - sushantkolhe18 pass - nd0keI4thSeb1zbU
+mongo connection string for compass - mongodb+srv://sushantkolhe18:nd0keI4thSeb1zbU@backenddb.zbisfw4.mongodb.net/

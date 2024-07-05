@@ -1,0 +1,4 @@
+npm init -y
+npm install mongoose
+npm install multer
+npm install xlsx
